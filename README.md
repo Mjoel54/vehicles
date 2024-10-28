@@ -1,4 +1,4 @@
-# Professional Readme Generator
+# Vehicle Generator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
@@ -17,13 +17,7 @@ A command-line application that generates vehicle objects based on user input an
 
 ## Installation
 
-### Step 1: Initialise package.json (if you haven't already)
-
-```
-npm init -y
-```
-
-### Step 2: Verify dependencies
+### Step 1: Verify dependencies
 
 Check that package.json lists the below dependencies
 
@@ -34,7 +28,7 @@ Check that package.json lists the below dependencies
 }
 ```
 
-### Step 3: Install modules
+### Step 2: Install modules
 
 In your terminal run the below code. Successful installation is observed when the `node_modules` file is created.
 
