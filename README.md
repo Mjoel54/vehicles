@@ -6,6 +6,8 @@
 
 A command-line application that generates vehicle objects based on user input and selection.
 
+Tutorial: https://bootcampspot.instructuremedia.com/embed/2854bc13-979b-48c7-b89c-d8b038dd7240
+
 ## Table of Contents
 
 - [Installation](#installation)
